@@ -16,3 +16,16 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/a-propos', function() {
+    return view('a-propos');
+});
+
+Route::get('/cherryinktattoo', function() {
+    return view('cherryinktattoo');
+});
+
+Route::get('/lapetitesouris', function() {
+    return view('lapetitesouris');
+});
