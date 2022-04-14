@@ -18,8 +18,8 @@ Route::get('/', function () {
 });
 
 
-Route::get('/a-propos', function() {
-    return view('a-propos');
+Route::get('/contactetavis', function() {
+    return view('contactetavis');
 });
 
 Route::get('/cherryinktattoo', function() {
