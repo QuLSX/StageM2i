@@ -1,12 +1,57 @@
-body {
-    background-color: rgb(0, 0, 0);
+
+.allpage {
+    background-image: url("/img/background1.jpg");
+    background-size: cover;
 }
 
-.boudin {
-    color: blue;
+.btn {
+    color: yellow;    
 }
 
-.bcg {
-    background-color: rgb(189, 177, 177);
+/* PAGE CONTACT */
+
+/*.allpage {
+    /*background-color: beige;
+    /*background-image: url("/public/img/laonbg.jpg");
+}*/
+
+.alltext {
+    padding-top: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titrecontact {
+    font-family: 'Square Peg', cursive;
+    text-align: center;
+    font-size: 150px;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.fiches {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.petitesouris {
+    padding: 50px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.cherryink {
+    padding: 50px;
+    background-image: url("/img/charryinkcard.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.adresse {
+    margin-top: 150px;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
 }
 

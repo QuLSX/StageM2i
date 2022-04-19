@@ -9,6 +9,7 @@
         <img src="/img/cherryikntattoimg.jpg" class="card-img-top" alt="cherry ink tattoo">
         <div class="card-body">
         <p class="card-text"> ESSAI Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <button class="btn" href="#" role="button">Visiter ma page</button>
         </div>
     </div>
 
@@ -16,6 +17,7 @@
         <img src="/img/lapetitesourisimg.jpg" class="card-img-top" alt="la petite souris">
         <div class="card-body">
         <p class="card-text">ESSAI Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <button class="btn" href="#" role="button">Visiter ma page</button>
         </div>
     </div>
 </div>
