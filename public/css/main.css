@@ -1,7 +1,9 @@
 
 .allpage {
+    /*background: rgb(186,52,141);
+    background: radial-gradient(circle, rgba(186,52,141,1) 0%, rgba(122,34,93,1) 54%, rgba(250,70,190,1) 92%);*/
     background-image: url("/img/background1.jpg");
-    background-size: cover;
+    background-size: cover; 
 }
 
 .btn {
@@ -10,10 +12,6 @@
 
 /* PAGE CONTACT */
 
-/*.allpage {
-    /*background-color: beige;
-    /*background-image: url("/public/img/laonbg.jpg");
-}*/
 
 .alltext {
     padding-top: 75px;
@@ -33,19 +31,30 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    transform: scale(1.2);
+}
+
+/* .fiches hover {
+    transform: scale(1.5);
+} */
+
+.infocontact {
+    display: flex;
+    flex-direction: row;
 }
 
 .petitesouris {
     padding: 50px;
-    background-color: aqua;
+    background-color: rgba(64, 66, 66, 0.527);
     text-align: center;
+    color: rgb(204, 199, 191);
 }
 
 .cherryink {
     padding: 50px;
-    background-image: url("/img/charryinkcard.jpg");
-    background-size: cover;
+    background-color: rgba(64, 66, 66, 0.527);
     text-align: center;
+    color: rgb(204, 199, 191);
 }
 
 .adresse {
@@ -53,5 +62,24 @@
     justify-content: center;
     text-align: center;
     font-size: 50px;
+    font-family: 'Square Peg', cursive;
+    font-style: italic;
+    color: aliceblue;
 }
 
+.png {
+    margin-right: 15px;
+}
+
+/* LA PETITE SOURIS */
+
+.gallery {
+    display: flex;
+    
+}
+
+.pardeux {
+    justify-content: space-between;
+    margin: 90px;
+    border: 1px solid rgb(70, 57, 57);
+}

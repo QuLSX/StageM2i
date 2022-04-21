@@ -3,20 +3,39 @@
     <div class="alltext">
 
         <h1 class="titrecontact">Nous Contacter</h1>
+        
 
         <div class="fiches">
             <div class="petitesouris">
                 <h4>La Petite Souris</h4>
-                    <p> Adresse Mail : <a href="mailto:emailexemple@mail.com"> emailexemple@mail.com </a> </p>
-                    <p> Téléphone : 07.68.38.76.95 </p>
-                    <p> Notre page Facebook : <a href="https://m.facebook.com/lapetitesouris02000/">La Petite Souris</a></p>
+                    <div class="infocontact">
+                        <img class="png" src="/img/mail.png" alt="" width="30px">
+                        <p> Adresse Mail : <a href="mailto:emailexemple@mail.com"> emailexemple@mail.com </a> </p>
+                    </div>
+                    <div class="infocontact">
+                        <img class="png" src="/img/phone.png" alt="" width="30px">
+                        <p> Téléphone : 07.68.38.76.95 </p>
+                    </div>
+                    <div class="infocontact">
+                        <img class="png" src="/img/facebook.png" alt="" width="30px">
+                        <p> Notre page Facebook : <a href="https://m.facebook.com/lapetitesouris02000/">La Petite Souris</a></p>
+                    </div>
             </div>
 
             <div class="cherryink">
                 <h4>Cherry ink Tattoo</h4>
-                    <p> Adresse Mail : <a href="mailto:emailexemple@mail.com"> emailexemple@mail.com </a> </p>
-                    <p> Téléphone : 06.18.24.05.42 </p>
-                    <p> Notre page Facebook : <a href="https://www.facebook.com/cherryinktattoo">Cherry Ink Tattoo</a></p>
+                    <div class="infocontact">
+                        <img class="png" src="/img/mail.png" alt="" width="30px">
+                        <p> Adresse Mail : <a href="mailto:emailexemple@mail.com"> emailexemple@mail.com </a> </p>
+                    </div>
+                    <div class="infocontact">
+                        <img class="png" src="/img/phone.png" alt="" width="30px">
+                        <p> Téléphone : 06.18.24.05.42 </p>
+                    </div>
+                    <div class="infocontact">
+                        <img class="png" src="/img/facebook.png" alt="" width="30px">
+                        <p> Notre page Facebook : <a href="https://www.facebook.com/cherryinktattoo">Cherry Ink Tattoo</a></p>
+                    </div>
             </div>
         </div>
 
